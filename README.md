@@ -1,6 +1,6 @@
 # Git Activity App
 
-This project was created with create-react-app to accept a users name and then search for / display their activity on github. 
+This project was created with create-react-app to accept a users name and then search and display their activity on github. 
 - React Hooks for state management and lifecycle features
 - Semantic Ui for styling.
 
