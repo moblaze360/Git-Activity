@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Git Activity App
 
 This project was project was created with create-react-app to fecth User Data from Github API
 - React Hooks for state management and lifecycle features
