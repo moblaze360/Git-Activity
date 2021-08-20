@@ -1,0 +1,12 @@
+.navbar {
+    font-size: large;
+    padding: 20px;
+    background-color: gold;
+    display: flex;
+ 
+
+}
+.search {
+    display: flex;
+    padding: 20px 0;
+}
