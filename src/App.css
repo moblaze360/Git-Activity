@@ -3,10 +3,16 @@
     padding: 20px;
     background-color: gold;
     display: flex;
- 
+    justify-content: center;
 
 }
 .search {
     display: flex;
+    justify-content: center;
     padding: 20px 0;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
 }
